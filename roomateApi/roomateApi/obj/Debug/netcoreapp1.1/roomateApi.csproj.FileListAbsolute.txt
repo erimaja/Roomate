@@ -1,0 +1,6 @@
+C:\Users\jaram\Documents\roomate\roomateApi\roomateApi\bin\Debug\netcoreapp1.1\roomateApi.deps.json
+C:\Users\jaram\Documents\roomate\roomateApi\roomateApi\bin\Debug\netcoreapp1.1\roomateApi.runtimeconfig.json
+C:\Users\jaram\Documents\roomate\roomateApi\roomateApi\bin\Debug\netcoreapp1.1\roomateApi.runtimeconfig.dev.json
+C:\Users\jaram\Documents\roomate\roomateApi\roomateApi\bin\Debug\netcoreapp1.1\roomateApi.dll
+C:\Users\jaram\Documents\roomate\roomateApi\roomateApi\obj\Debug\netcoreapp1.1\roomateApi.csprojResolveAssemblyReference.cache
+C:\Users\jaram\Documents\roomate\roomateApi\roomateApi\obj\Debug\netcoreapp1.1\roomateApi.AssemblyInfo.cs
