@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "roomateApi", "roomateApi\roomateApi.csproj", "{25A65555-EF53-47B1-AE76-58D67536CBA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestRoomate", "UnitTestRoomate\UnitTestRoomate.csproj", "{166C3F3E-854D-4185-8825-34739A674C93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestRoomate", "UnitTestRoomate\UnitTestRoomate.csproj", "{166C3F3E-854D-4185-8825-34739A674C93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
